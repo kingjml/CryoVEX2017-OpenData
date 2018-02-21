@@ -1,6 +1,6 @@
 # ESA/York /ECCC CryoVEX 2017 Snow on Sea Ice Campaign
 ## Synopsis
-In April of 2017 12 aircraft landings were made on sea ice between Ellesmere Island and 87.1N to measure sea ice and snow thickness. With limited time on site (<1 hour) unique snow depth measurements were completed with [GPS-enabled Snow Hydro Magnaprobe](http://www.snowhydro.com/products/column2.html units. In total 14848 measurements were collected, characterizing conditions across the gradient of landfast MYI to FYI. This initial release contains snow thickness measurements collected by ECCC and collaborators. Additional Alert88N datasets will be available from the [European Space Agency's (ESA) Earth Observation Campaigns Data web portal](https://earth.esa.int/web/guest/campaign). 
+In April of 2017 12 aircraft landings were made on sea ice between Ellesmere Island and 87.1N to measure sea ice and snow thickness. With limited time on site (<1 hour) unique snow depth measurements were completed with [GPS-enabled Snow Hydro Magnaprobe](http://www.snowhydro.com/products/column2.html) units. In total 14848 measurements were collected, characterizing conditions across the gradient of landfast MYI to FYI. This initial release contains snow thickness measurements collected by ECCC and collaborators. Additional Alert88N datasets will be available from the [European Space Agency's (ESA) Earth Observation Campaigns Data web portal](https://earth.esa.int/web/guest/campaign). 
 
 ## Format
 Snow thickness measurements on sea ice are provided as a single comma delimited file with 7 columns:
